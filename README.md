@@ -1,1 +1,1 @@
-# -dj-angular-docker
+# dj-angular-docker
